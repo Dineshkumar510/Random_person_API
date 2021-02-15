@@ -7,7 +7,7 @@
  - In the project directory, you can run by using default method "NPM start"
 
 
-# Dependicies used for this project:
+#  Dependencies used for this project:
 
 
 	"@testing-library/jest-dom": 5.11.9,
