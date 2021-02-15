@@ -6,6 +6,11 @@
 
  - In the project directory, you can run by using default method "NPM start"
 
+ - **Axios**:
+	 It is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. js. Making HTTP requests to fetch or save data is one of the most common tasks a client-side JavaScript application will need to do
+	 
+ - **Reactstrap**:
+ It provides prebuilt Bootstrap 4 components that allow a great deal of flexibility and prebuilt validation. This allows us to quickly build beautiful forms that are guaranteed to impress and provide an intuitive user experience.
 
 #  Dependencies used for this project:
 
